@@ -22,21 +22,19 @@ By the way, if you are a Year-four student and you are currently applying to mas
 ### <a href="">MTH102(17/18) Engineering Mathematics II</a>
 
 ## Year Three
-### <a href="">EEE310(S2) Embedded Computer Systems</a>
-### <a href="">EEE310(S2) Embedded Computer Systems</a>
-### <a href="">EEE310(S2) Embedded Computer Systems</a>
-### <a href="">EEE310(S2) Embedded Computer Systems</a>
-### <a href="">EEE310(S2) Embedded Computer Systems</a>
-### <a href="">EEE310(S2) Embedded Computer Systems</a>
-### <a href="">EEE310(S2) Embedded Computer Systems</a>
-### <a href="">EEE310(S2) Embedded Computer Systems</a>
-### <a href="">EEE310(S2) Embedded Computer Systems</a>
-### <a href="">EEE310(S2) Embedded Computer Systems</a>
-### <a href="">EEE310(S2) Embedded Computer Systems</a>
-### <a href="">EEE310(S2) Embedded Computer Systems</a>
-### <a href="">EEE310(S2) Embedded Computer Systems</a>
-### <a href="">EEE310(S2) Embedded Computer Systems</a>
-
+### <a href="">EEE201(S1) CMOS Integrated Circuits</a>
+### <a href="">EEE202(S2) Analogue and Digital Communications I</a>
+### <a href="">EEE203(S1) Continuous and Discrete Time Signals and Systems I</a>
+### <a href="">EEE204(S2) Continuous and Discrete Time Signals and Systems II</a>
+### <a href="">EEE205(S1) Digital Electronics II</a>
+### <a href="">EEE210(S2) Energy Conversion and Power Systems</a>
+### <a href="">EEE211(S1) Electronic Circuits and Systems</a>
+### <a href="">EEE212(S2) Industrial Awareness and Group Project</a>
+### <a href="">EEE213(S2) Power Electronics and Electromechanics</a>
+### <a href="">EEE216(S2) Microprocessor Systems</a>
+### <a href="">EEE220(S2) Instrumentation and Control System</a>
+### <a href="">EEE225(S1) Advanced Electrical Circuits and Electromagnetics</a>
+### <a href="">MTH201(S1) Engineering Mathematics III</a>
 
 ## Year Four
 
