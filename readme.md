@@ -38,9 +38,9 @@ By the way, if you are a Year-four student and you are currently applying to mas
 
 ## Year Four
 
-### <a href="https://zhengmk.github.io/EEE_lecture_materials/EEE319/EEE319.zip">EEE310(S2) Embedded Computer Systems</a>
+### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Four/EEE307/EEE307.zip">EEE307(S1): Electronics for Communications</a>
 
-### <a href="https://zhengmk.github.io/EEE_lecture_materials/EEE307/EEE307.zip">EEE307(S1): Electronics for Communications</a>
+### <a href="https://zhengmk.github.io/EEE_lecture_materials/EEE319/EEE319.zip">EEE310(S2) Embedded Computer Systems</a>
 
 ### <a href="https://zhengmk.github.io/EEE_lecture_materials/EEE319/EEE319.zip">EEE319(S2): Optimization</a>
 
