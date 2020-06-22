@@ -5,7 +5,7 @@ Some of the materials might be <b>out-of-date</b>, because every module leader p
 
 I myself do not hold any copyright for all of these slides. The copyrights still belong to our kind and generous professors and lecturers :)
 
-You can directly click the module names that are in <font color="blue">blue</font> to download the zip files for each module, but this is not applicable for some modules which has size larger than 20MB. Moreover, if you want to download all of these slides in <b>China</b>, you'd better use <a href="https://www.bilibili.com/video/BV1aE411p7Cd" target="_blank">gitee</a>, because the total size is about 2.3GB which could take you a centry to download or clone.
+You can directly click the module names that are in <font color="blue">blue</font> to download the zip files for each module, but this is not applicable for some modules which has size larger than 50MB because of the same restriction on the file size mentioned before. Moreover, if you want to download all of these slides in <b>China</b>, you'd better use <a href="https://www.bilibili.com/video/BV1aE411p7Cd" target="_blank">gitee</a>, because the total size is about 2.3GB which could take you a centry to download or clone.
 
 By the way, if you are a Year-four student and you are currently applying to master programs, you could check my application timeline and my results on <a href="https://www.zhihu.com/question/318624725/answer/920863161" target="_blank">Zhihu.
 
