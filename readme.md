@@ -10,16 +10,16 @@ You can directly click the module names that are in <font color="blue">blue</fon
 By the way, if you are a Year-four student and you are currently applying to master programs, you could check my application timeline and my results on <a href="https://www.zhihu.com/question/318624725/answer/920863161" target="_blank">Zhihu.
 
 ## Year Two
-### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE101/EEE101.zip">EEE101(17/18) C Programming and Software Engineering I</a>
-### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE102/EEE102.zip">EEE102(17/18) C++ Programming and Software Eng. II</a>
-### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE103/EEE103.zip">EEE103(17/18) Electrical Circuits I</a>
-### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE104/EEE104.zip">EEE104(17/18) Digital Electronics I</a>
-### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE108/EEE108.zip">EEE108(17/18) Electromagnetism and Electromechanics</a>
-### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE109/EEE109.zip">EEE109(17/18) Electronic Circuitsa>
-### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE112/EEE112.zip">EEE112(17/18) Integrated Electronics and Design</a>
-### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE116/EEE116.zip">EEE116(17/18) Experimental, Computer Skills and Sustainability</a>
-### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/MTH101/MTH101.zip">MTH101(17/18) Engineering Mathematics I</a>
-### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/MTH102/MTH102.zip">MTH102(17/18) Engineering Mathematics II</a>
+### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE101/EEE101.zip">EEE101(S1) C Programming and Software Engineering I</a>
+### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE102/EEE102.zip">EEE102(S2) C++ Programming and Software Eng. II</a>
+### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE103/EEE103.zip">EEE103(S1) Electrical Circuits I</a>
+### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE104/EEE104.zip">EEE104(S2) Digital Electronics I</a>
+### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE108/EEE108.zip">EEE108(S2) Electromagnetism and Electromechanics</a>
+### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE109/EEE109.zip">EEE109(S1) Electronic Circuitsa>
+### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE112/EEE112.zip">EEE112(S2) Integrated Electronics and Design</a>
+### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE116/EEE116.zip">EEE116(S2) Experimental, Computer Skills and Sustainability</a>
+### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/MTH101/MTH101.zip">MTH101(S1) Engineering Mathematics I</a>
+### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/MTH102/MTH102.zip">MTH102(S2) Engineering Mathematics II</a>
 
 ## Year Three
 ### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Three/EEE201/EEE201.zip">EEE201(S1) CMOS Integrated Circuits</a>
