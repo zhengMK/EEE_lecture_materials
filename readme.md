@@ -15,7 +15,7 @@ By the way, if you are a Year-four student and you are currently applying to mas
 ### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE103/EEE103.zip">EEE103(S1) Electrical Circuits I</a>
 ### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE104/EEE104.zip">EEE104(S2) Digital Electronics I</a>
 ### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE108/EEE108.zip">EEE108(S2) Electromagnetism and Electromechanics</a>
-### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE109/EEE109.zip">EEE109(S1) Electronic Circuitsa>
+### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE109/EEE109.zip">EEE109(S1) Electronic Circuits</a>
 ### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE112/EEE112.zip">EEE112(S2) Integrated Electronics and Design</a>
 ### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/EEE116/EEE116.zip">EEE116(S2) Experimental, Computer Skills and Sustainability</a>
 ### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Two/MTH101/MTH101.zip">MTH101(S1) Engineering Mathematics I</a>
