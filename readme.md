@@ -38,17 +38,17 @@ By the way, if you are a Year-four student and you are currently applying to mas
 
 ## Year Four
 
-### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Four/EEE307/EEE307.zip">EEE307(S1): Electronics for Communications</a>
+### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Four/EEE307/EEE307.zip">EEE307(S1) Electronics for Communications</a>
 
 ### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Four/EEE310/EEE310.zip">EEE310(S2) Embedded Computer Systems</a>
 
-### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Four/EEE319/EEE319.zip">EEE319(S2): Optimization</a>
+### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Four/EEE319/EEE319.zip">EEE319(S2) Optimization</a>
 
 ### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Four/EEE327/EEE327.zip">EEE327(S1) Digital Control and Automatic Control</a>
 
 ### <a href="https://zhengmk.github.io/EEE_lecture_materials/EEE335/EEE335.zip">EEE335(S1) Drives, and Power Generation, Transmission and Relaying</a>
 
-### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Four/EEE336/EEE336.zip">EEE336(S2): Signal Processing and Digital Filtering</a>
+### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Four/EEE336/EEE336.zip">EEE336(S2) Signal Processing and Digital Filtering</a>
 
 ### <a href="https://zhengmk.github.io/EEE_lecture_materials/Year_Four/EEE339/EEE339.zip">EEE339(S1) Digital System Design with HDL</a>
 
